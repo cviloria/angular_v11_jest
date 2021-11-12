@@ -24,6 +24,9 @@
         "plugin:prettier/recommended"
       ],
       "rules": {
+        "indent": [
+          "error", "tab"
+        ],
         "@angular-eslint/component-selector": [
           "error",
           {
